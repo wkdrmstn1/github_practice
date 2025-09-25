@@ -5,3 +5,8 @@ for i in range(5):
     lotto.sort()
 
     print(lotto)
+
+
+
+
+print("dasdasdadasdsadsad")
