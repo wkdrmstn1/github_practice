@@ -13,6 +13,6 @@ print("dasdasdadasdsadsad")
 
 
 # git 서순
-# git. add . -> 변경한 전체 내용 추가
-# git. commit -> 추가한 내용 commit 
-# git. log -> commit 된 내용 확인 
+# git add . -> 변경한 전체 내용 추가
+# git commit -> 추가한 내용 commit 
+# git log -> commit 된 내용 확인 
